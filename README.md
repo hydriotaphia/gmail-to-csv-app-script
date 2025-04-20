@@ -73,7 +73,7 @@ When the script is run, it will look for a `config` tab on the sheet whose ID yo
 <img width="501" alt="Screenshot 2025-04-20 at 3 51 37 PM" src="https://github.com/user-attachments/assets/fabe8b36-4ea2-48d7-98a5-a4b0e2d85935" />
 
 21. If you see a pop up with a red triangle warning you about unsafe apps (you may or may not see this), you will need to click the **Advanced** link and click on your email address to accept the risk.
-22. Now you'll need to grant the app permissions to access your Gmail account and your Google Drive. 
+22. Now you'll need to grant the app permissions to access your Gmail account and your Google Drive. **Check the box to grant all permissions.**
 
 <img width="519" alt="Screenshot 2025-04-20 at 3 53 20 PM" src="https://github.com/user-attachments/assets/ae6aa284-319d-4628-b893-9ac0612d3979" />
 
