@@ -57,7 +57,7 @@ If you don't supply an end date, the script will attempt to retrieve all emails 
 
 ### Running the script
 
-When the script is run, it will look for as `config` tab on the sheet whose ID you supplied, and it will retrieve the  `start` and `end` dates from that `config` tab. It will use those dates to retrieve all messages in Gmail between those dates, saving each message and its metadata to a row in the new tab on the same sheet, which it will name `data`. (There's no need to create the `data` tab; the script will do this automatically.)
+When the script is run, it will look for a `config` tab on the sheet whose ID you supplied, and it will retrieve the  `start` and `end` dates from that `config` tab. It will use those dates to retrieve all messages in Gmail between those dates, saving each message and its metadata to a row in a new tab on the same sheet, which it will name `data`. (There's no need to create the `data` tab; the script will do this automatically.)
 
 17. To run the script, first select `main` from the drop-down window in the toolbar, which by default will probably read `prepSheet`. **Make sure `main` is selected before running the script, or else it will not work.**
     
