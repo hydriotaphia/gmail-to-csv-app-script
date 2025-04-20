@@ -1,2 +1,3 @@
-# archive-gmail-google-app-script
-Google App script for archiving Gmail messages
+# Google App script for saving Gmail messages to Google Sheets/CSV
+
+
